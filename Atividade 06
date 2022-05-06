@@ -1,0 +1,5 @@
+nome = "Paulo"
+sobrenome = "Eduardo"
+
+print("Meu nome é" , nome, sobrenome)
+print("E esse é meu primeiro print em tela")
