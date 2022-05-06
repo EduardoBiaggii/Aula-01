@@ -1,0 +1,7 @@
+v1 = 10
+v2 = 50
+print(v1*v2)
+
+somatotal = 10*50
+
+print (somatotal)
