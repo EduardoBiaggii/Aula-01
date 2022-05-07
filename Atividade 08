@@ -9,3 +9,17 @@ n2 = int(input("Digite outro numero inteiro? "))
 n3 = n1+n2
 
 print(n3)
+
+
+////////////////////
+
+nota1 = int(input("qual a note de portugues? "))
+nota2 = int(input("Qual a nota de ingles? "))
+nota3 = int(input("Qual a nota de Françes? "))
+nota4 = int(input("Qual a nota de alemao? "))
+
+soma = nota1 + nota2 + nota3 + nota4
+
+resultado = soma / 4
+
+print("Sua nota é" , resultado)
