@@ -1,0 +1,13 @@
+v1 = 9
+v2 = 8
+v3 = 7
+
+print (v1+v2+v3/3)
+
+vtotal = 8+9+7/3
+
+print(vtotal)
+
+
+
+2 exemplos
