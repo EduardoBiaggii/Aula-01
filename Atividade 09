@@ -1,0 +1,11 @@
+nome = input("Digite o seu primeiro nome?")
+sobrenome = input("Digite seu segundo nome?")
+
+print(nome, sobrenome)
+
+n1 = int(input("Digite um numero inteiro? "))
+n2 = int(input("Digite outro numero inteiro? "))
+
+n3 = n1+n2
+
+print(n3)
