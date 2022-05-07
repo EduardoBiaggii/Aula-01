@@ -1,0 +1,13 @@
+n1 = int(input("Numero¹: "))
+n2 = int(input("Numero²: "))
+
+a = n1 + n2
+s = n1 - n2 
+m = n1 * n2
+d = n1 / n2
+
+
+print("A Soma é", a)
+print("A subtração é", s)
+print("A Multiplicação é", m)
+print("A Divisão é", d)
