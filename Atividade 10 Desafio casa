@@ -1,0 +1,8 @@
+# print("DESAFIO 677.116.960-00")
+
+part1 = 115
+part2 = 353
+part3 = 584
+final = 18
+print(part1,part2,part3, sep='.', end="-")
+print(final)
